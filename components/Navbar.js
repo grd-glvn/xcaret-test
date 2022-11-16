@@ -13,7 +13,7 @@ function Navbar() {
 
     return (
     // <nav className="h-[8%] sm:h-[13%] flex items-center bg-gray-100 px-2 sm:px-4 fixed w-full z-20 top-0 left-0 ">
-    <nav className="fixed grid h-[10%] px-3 sm:h-[13%] bg-gray-100 w-full top-0 left-0">
+    <nav className="fixed grid h-[10%] px-3 sm:h-[13%] bg-gray-100 w-full top-0 left-0 z-50">
       <div className=" flex flex-row flex-wrap justify-between items-center">
         <a href="#" className="">
             <img src={ content.navbar.logo } className="h-3 sm:h-9" alt="Xcaret Logo"/>

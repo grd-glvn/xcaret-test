@@ -43,9 +43,9 @@ export default function Home( { ui } ) {
       <Modal/>
       {/* <main className=''> */}
         <Navbar/>        
-        {/* <div className="h-[50rem] bg-blue-500"></div> */}
+
         <Header/>
-        {/* <section>
+        <section>
           <a href="/newpage">LINK!!!</a>
           <Promotion/>
           <PromotionReversed/>
@@ -56,7 +56,7 @@ export default function Home( { ui } ) {
         </section>
         <section>
           <Prefooter/>        
-        </section> */}
+        </section>
       {/* </main> */}
       <Footer/>
     </>
