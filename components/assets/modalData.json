@@ -1,0 +1,30 @@
+{
+    "es":{
+        "title":"Detalles de la reservación",
+        "bookingNumber":"Número de orden:",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quo tempore distinctio perspiciatis. Dolorem ipsa ea nulla quasi molestiae in iusto.",
+        "button":[{
+            "text":"Reservar",
+            "href":"/thank-you"
+        },
+        {
+            "text":"Cancelar",
+            "href":"/thank-you"
+        }
+        ]
+    },
+    "en":{
+        "title":"Booking details",
+        "bookingNumber":"Order number:",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam quo tempore distinctio perspiciatis. Dolorem ipsa ea nulla quasi molestiae in iusto.",
+        "button":[{
+            "text":"Book",
+            "href":"/thank-you"
+        },
+        {
+            "text":"Go Back",
+            "href":"/thank-you"
+        }
+        ]
+    }
+}
