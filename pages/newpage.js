@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar'
 
 function newpage() {
   return (
-<div >hola</div>
+<div className='bg-blue-500 h-[50rem]'>hola</div>
   )
 }
 
