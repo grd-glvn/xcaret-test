@@ -9,7 +9,7 @@ import { uiActions } from '../store/slices/uiSlice';
 
 export default function MyApp({ Component, ...rest }) {
   const {store, props} = wrapper.useWrappedStore(rest);
-  console.log(props)
+
   return (
     <Provider store={store}>
       <Component {...props.pageProps} />
